@@ -1,3 +1,1 @@
-case study
-
 # website
